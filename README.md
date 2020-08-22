@@ -11,3 +11,11 @@ Vintage is a clean minimal and responsive WordPress theme well suited for travel
 1. Upload the contents of this repository to a new directory in wp-content/themes.
 2. Click "Activate".
 
+<h1>Setting</h1>
+For optimized WordPress settings, follow these steps.
+
+1. In "Settings -> Permalinks" click "Post name" and save.
+2. In "Settings -> Media" uncheck "Organize my uploads into month- and year-based folders" and save.
+3. In "Appearance -> Menus" click "Save Menu" and check "Display location - Primary Menu".
+4. In "Appearance -> Widgets" drag a widget to "Sidebar" to view them in action.
+

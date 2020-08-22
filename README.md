@@ -19,3 +19,5 @@ For optimized WordPress settings, follow these steps.
 3. In "Appearance -> Menus" click "Save Menu" and check "Display location - Primary Menu".
 4. In "Appearance -> Widgets" drag a widget to "Sidebar" to view them in action.
 
+<h1>Theme Documentation</h1>
+

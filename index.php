@@ -9,7 +9,7 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-hierarchy/
  *
- * @package 
+ * @package WordPress
  * @subpackage Vintage
  * @since 1.2.0
  */

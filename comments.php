@@ -9,5 +9,5 @@
  *
  * @package WordPress
  * @subpackage Vintage
- * @since Vintage 1.0
+ * @since Vintage 1.0.2
  */

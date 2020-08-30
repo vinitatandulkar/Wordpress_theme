@@ -1,7 +1,7 @@
 <h1>About Theme</h1>
 Theme Name: Vintage<br/>
 Theme URI: http://vinitatandulkar.com/wp/vintage/ <br/>
-Version: 2.4.5 <br/>
+Version: 2.4.6 <br/>
 Tested up to: WP 5.0 <br/>
 
 <h1>Description</h1>

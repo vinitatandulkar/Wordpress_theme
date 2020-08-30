@@ -5,7 +5,7 @@ Version: 2.4.6 <br/>
 Tested up to: WP 5.0 <br/>
 
 <h1>Description</h1>
-Vintage is a clean minimal and responsive WordPress theme well suited for travels, health, business, finance, portfolio, design, art, photography, personal, ecommerce and any other creative websites and blogs. Developed using Bootstrap 4 that makes it mobile and tablets friendly. Theme comes with the full-screen slider, social icon integration, author bio, popular posts widget and improved category widget. Vintage incorporates latest web standards such as HTML5 and CSS3 and is SEO friendly thanks to its clean structure and codebase. It has dozens of Theme Options based on WordPress Customizer to change theme layout, colors, fonts, slider settings and much more. 
+Vintage is a clean minimal and responsive WordPress theme well suited for travels, health, business, finance, portfolio, design, art, photography, personal, ecommerce and any other creative websites and blogs. Developed using Bootstrap 4 that makes it mobile and tablets friendly. Theme comes with the full-screen slider, social icon integration, author bio, popular posts widget and improved category widget. Vintage incorporates latest web standards such as HTML5 and CSS3 and is SEO friendly thanks to its clean structure and codebase programming. It has dozens of Theme Options based on WordPress Customizer to change theme layout, colors, fonts, slider settings and much more. 
 
 <h1>Installation</h1>
 1. Upload the contents of this repository to a new directory in wp-content/themes.

@@ -21,3 +21,5 @@ For optimized WordPress settings, follow these are steps.
 
 <h1>Vintage Documentation:</h1>
 
+Theme and Documentation Under-Development.
+

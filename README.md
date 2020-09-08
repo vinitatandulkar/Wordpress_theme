@@ -1,4 +1,4 @@
-<h1>About Theme</h1>
+<h1>About Vintage Theme</h1>
 Theme Name: Vintage<br/>
 Theme URI: http://vinitatandulkar.com/wp/vintage/ <br/>
 Version: 2.4.7 <br/>

@@ -6,7 +6,7 @@
  *
  * @package WordPress
  * @subpackage Vintage
- * @since 1.5.0
+ * @since 1.6.0
  */
 
 /**
